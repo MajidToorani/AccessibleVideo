@@ -13,6 +13,7 @@ h1{
 }
 
 .video{
+    float: right;
     max-width: 100vw;
     max-height: 100vh;
 }
