@@ -1,0 +1,59 @@
+html {
+	background-color: rgb(0, 0, 0);
+}
+
+body{
+	background-color: rgb(214, 252, 203);
+	margin: 5em;
+	border: 1px solid black;
+}
+
+h1{
+    text-align: center;
+}
+
+.video{
+    max-width: 100vw;
+    max-height: 100vh;
+}
+
+.videoCanvas {
+    margin: auto;
+    width: 90%;
+    border: 3px solid #64696b;
+    padding: 10px;
+}
+
+.subscription {
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+.thanks-content{
+    margin: 20em;
+}
+
+.fieldset{
+    float: center;
+    background-color: rgb(241, 237, 178);
+}
+
+.name{
+    float: left;
+    padding: 5px;
+}
+
+.email{
+    position: relative;
+    float: left;
+    padding: 5px;
+}
+
+.submit{
+    margin-left: 5px;
+    padding: 5px;
+    background-color: black;
+    color: blanchedalmond;
+}
+
